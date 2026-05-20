@@ -2,7 +2,7 @@
 
 A machine learning project that predicts NFL game outcomes and tests whether better-calibrated win probabilities can generate profit against sportsbook moneylines.
 
----
+--- 
 
 ## File inclusions
 
