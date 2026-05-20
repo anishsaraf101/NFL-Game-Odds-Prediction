@@ -6,7 +6,7 @@ A machine learning project that predicts NFL game outcomes and tests whether bet
 
 ## File inclusions
 
-
+ 
 - `game_odds_prediction.ipynb`: Main analysis — a Jupyter Notebook (interactive Python doc with code + outputs inline); covers full pipeline
 - `games.csv`: Game-level data with team matchups, moneyline odds, and sportsbook-implied probabilities --> sourced from nflverse
 - `2017-2025_scores.csv`: Raw NFL scores across 8 seasons used to compute outcomes and historical win rates --> sourced from Kaggle
