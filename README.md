@@ -4,7 +4,7 @@ A machine learning project that predicts NFL game outcomes and tests whether bet
 
 --- 
 
-## File inclusions
+## File inclusions 
 
  
 - `game_odds_prediction.ipynb`: Main analysis — a Jupyter Notebook (interactive Python doc with code + outputs inline); covers full pipeline
